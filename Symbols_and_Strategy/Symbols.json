@@ -1,4 +1,31 @@
-{"greet":"Hello Gitter"
+{"greet":"Hello Gitter",
+  "回测池——20250320":{
+        "玉米_2025": {"symbol": "DCE.c2505", "start_date": "2024-01-15", "end_date": "2025-01-15"},
+        "玉米_2024": {"symbol": "DCE.c2401", "start_date": "2023-1-15", "end_date": "2024-01-15"},
+        "玉米_2023": {"symbol": "DCE.c2301", "start_date": "2022-01-15", "end_date": "2023-01-15"},
+        "玉米_2020": {"symbol": "DCE.c2001", "start_date": "2019-01-15", "end_date": "2020-01-15"},
+        "玉米_2019": {"symbol": "DCE.c1901", "start_date": "2018-01-15", "end_date": "2019-01-15"},
+        "玉米_2018": {"symbol": "DCE.c1801", "start_date": "2017-01-15", "end_date": "2018-01-15"},
+        "玉米_2017": {"symbol": "DCE.c1701", "start_date": "2016-01-15", "end_date": "2017-01-15"},
+        "玉米_2016": {"symbol": "DCE.c1601", "start_date": "2015-01-15", "end_date": "2016-01-15"},
+
+        "黄金_2025": {"symbol": "SHFE.au2502", "start_date": "2024-01-15", "end_date": "2025-01-15"},
+        "黄金_2024":{"symbol": "SHFE.au2402", "start_date": "2023-01-15", "end_date": "2024-01-15"},
+        "黄金_2023":{"symbol": "SHFE.au2302", "start_date": "2022-01-15", "end_date": "2023-01-15"},
+        "黄金_2020":{"symbol": "SHFE.au2002", "start_date": "2019-01-15", "end_date": "2020-01-15"},
+        "黄金_2019":{"symbol": "SHFE.au1902", "start_date": "2018-01-15", "end_date": "2019-01-15"},
+        "黄金_2018":{"symbol": "SHFE.au1802", "start_date": "2017-01-15", "end_date": "2018-01-15"},
+        "黄金_2017":{"symbol": "SHFE.au1702", "start_date": "2016-01-15", "end_date": "2017-01-15"},
+        "黄金_2016":{"symbol": "SHFE.au1602", "start_date": "2015-01-15", "end_date": "2016-01-15"},
+
+        "沪深300_2025": {"symbol": "CFFEX.IF2501", "start_date": "2024-01-15", "end_date": "2025-01-15"},
+        "沪深300_2024": {"symbol": "CFFEX.IF2401", "start_date": "2023-01-15", "end_date": "2024-01-15"},
+        "沪深300_2023": {"symbol": "CFFEX.IF2301", "start_date": "2022-01-15", "end_date": "2023-01-15"},
+        "沪深300_2020": {"symbol": "CFFEX.IF2001", "start_date": "2019-01-15", "end_date": "2020-01-15"},
+        "沪深300_2019": {"symbol": "CFFEX.IF1901", "start_date": "2018-01-15", "end_date": "2019-01-15"},
+        "沪深300_2018": {"symbol": "CFFEX.IF1801", "start_date": "2017-01-15", "end_date": "2018-01-15"},
+        "沪深300_2017": {"symbol": "CFFEX.IF1701", "start_date": "2016-01-15", "end_date": "2017-01-15"},
+        "沪深300_2016": {"symbol": "CFFEX.IF1601", "start_date": "2015-01-15", "end_date": "2016-01-15"}
 
   
 }
